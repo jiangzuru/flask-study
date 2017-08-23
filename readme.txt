@@ -1,2 +1,2 @@
-@toloog
-python flask learning project
+toloog 
+flask practice project
